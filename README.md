@@ -48,7 +48,7 @@ pip install requests textual
 ## Running
 
 ```bash
-python checkaddy.py
+python run.py
 ```
 
 ## Notes
